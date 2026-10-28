@@ -1,0 +1,6 @@
+{
+  "name": "Water Leak Night-Flow Baseline Detection SOA",
+  "description": "Production-grade microservices SOA platform for water leak anomaly detection using individual property night-flow baselines, Kafka event streaming, and JWT security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
